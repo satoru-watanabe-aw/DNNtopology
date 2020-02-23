@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 This repository publishs the source codes used in the paper "Topological Measurement of Deep Neural Networks Using Persistent Homology." It includes four Python notebooks. 
 * makeModelMNIST.ipynb
 * makeModelCIFAR10.ipynb
