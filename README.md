@@ -12,7 +12,7 @@ These notebooks make traind models on the MNIST and CIFAR10 data sets and store 
 This notebook constructs simplexes on trained models stored in "models" directory and stores the results in "simplexes" directory.
 
 ### drawDiagram.ipynb
-This notebook draws persistent homology diagrams using Dionysus library based on the files in "simplexes" directory.
+This notebook draws persistent homology diagrams using Dionysus library using the files in "simplexes" directory.
 
 ![PHdiagram](https://user-images.githubusercontent.com/61130343/75102558-beef6380-5630-11ea-8a13-94c985f92fe8.png)
 
