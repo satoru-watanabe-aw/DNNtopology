@@ -9,7 +9,7 @@ This repository publishs the source codes used in the paper "Topological Measure
 These notebooks make traind models on the MNIST and CIFAR10 data sets and store them in "models" directory.
 
 ### makeSimplex.ipynb
-This notebook constructs simplexes on trained models stored in "models" directory and outputs the results to "simplexes" directory.
+This notebook constructs simplexes on the trained models stored in "models" directory and outputs the results to "simplexes" directory.
 
 ### drawDiagram.ipynb
 This notebook draws persistent homology diagrams using Dionysus library using the files in "simplexes" directory.
