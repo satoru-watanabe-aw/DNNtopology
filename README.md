@@ -22,7 +22,7 @@ The first cells of the notebooks mount Gdrive, comment them out if unnecessary.
 
 The configuration file (requirements.txt) is provided, which was generated with "pip freeze" command.
 
-## Paramenters 
+## Paramenter setting in notebooks 
 
 ### makeModelMNIST.ipynb and makeModelCIFAR10.ipynb
 
