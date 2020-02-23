@@ -27,10 +27,10 @@ The configuration file (requirements.txt) is provided, which was generated with 
 ### makeModelMNIST.ipynb and makeModelCIFAR10.ipynb
 
 They have four parameters for specifing the input data and network structures.
-* class_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-* firstLayerSize = 300
-* secondLayerSize = 100
-* outputNeuron = 10
+* class_list 
+* firstLayerSize 
+* secondLayerSize 
+* outputNeuron 
 
 "class_list" restricts the input data to the classes.
 For example, class_list = [0, 1, 2, 3, 4] restricts the input data to the five classes.
