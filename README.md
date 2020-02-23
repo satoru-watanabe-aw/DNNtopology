@@ -23,6 +23,7 @@ They mounts gdrive in their first cells, comment them out if unnecessary.
 ## Paramenters 
 
 ###makeModelMNIST.ipynb and makeModelCIFAR10.ipynb
+
 They have four parameters for specifing the input data and network structures.
 * class_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 * firstLayerSize = 300
