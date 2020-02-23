@@ -17,8 +17,8 @@ This notebook draws persistent homology diagrams using Dionysus library using th
 ![PHdiagram](https://user-images.githubusercontent.com/61130343/75102558-beef6380-5630-11ea-8a13-94c985f92fe8.png)
 
 # Usage
-The notebooks are developed for the execution in Google Colaboratory. 
-They mounts gdrive in their first cells, comment them out if unnecessary.
+The notebooks are developed for the execution in Google Colaboratory (The first cells of the notebooks mount Gdrive, comment them out if unnecessary). 
+The configuration file (requirements.txt) is provided, which was generated with "pip freeze" command.
 
 ## Paramenters 
 
