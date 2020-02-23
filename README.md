@@ -32,8 +32,8 @@ They have four parameters for specifing the input data and network structures.
 * secondLayerSize = 100
 * outputNeuron = 10
 
-"class_list" limits the input class in the data sets.
-For example, class_list = [0, 1, 2, 3, 4] limits the input data to the five classes.
+"class_list" restricts the input data to the classes.
+For example, class_list = [0, 1, 2, 3, 4] restricts the input data to the five classes.
 "firstLayerSize", "secondLayerSize", and "outputNeuron" specifies the number of neurons in the models.
 
 ### makeSimplex.ipynb
