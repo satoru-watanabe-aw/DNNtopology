@@ -40,6 +40,8 @@ This notebook has seven parameters for specifing the weight parameter in the tra
 * secondLayerSize
 * outputNeuron
 * class_list
+
 (0, 1, 2) and (9, 11, 12) are used for (layerNumber, LayerNumber1, layerNumber2) in the MNIST and CIFAR-10 data set, respectively.
+"firstLayerSize", "secondLayerSize", "outputNeuron", and "class_list" must be same as the parameters set in makeModelMNIST.ipynb or makeModelCIFAR10.ipynb.
 
 
