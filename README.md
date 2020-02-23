@@ -32,8 +32,14 @@ For example, class_list = [0, 1, 2, 3, 4] limits the input data to the five clas
 "firstLayerSize", "secondLayerSize", and "outputNeuron" specifies the number of neurons in the models.
 
 ### Paramenters in makeSimplex.ipynb
-This notebook has three parameters for specifing the weight parameter in the training models.
+This notebook has seven parameters for specifing the weight parameter in the training models.
 * layerNumber
 * layerNumber1
 * layerNumber2
+* firstLayerSize
+* secondLayerSize
+* outputNeuron
+* class_list
+(0, 1, 2) and (9, 11, 12) are used for (layerNumber, LayerNumber1, layerNumber2) in the MNIST and CIFAR-10 data set, respectively.
+
 
