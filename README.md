@@ -5,6 +5,6 @@ This repository publishs the source codes used in the paper "Topological Measure
 * makeSimplex.ipynb
 * drawDiagram.ipynb
 
-#### makeModelMNIST.ipynb, makeModelCIFAR10.ipynb
+### makeModelMNIST.ipynb, makeModelCIFAR10.ipynb
 These source codes make traind models on the MNIST and CIFAR10 data sets. The models are stored in the "models" directory.
 
