@@ -6,7 +6,7 @@ This repository publishs the source codes used in the paper "Topological Measure
 * drawDiagram.ipynb
 
 ### makeModelMNIST.ipynb, makeModelCIFAR10.ipynb
-These notebooks make traind models on the MNIST and CIFAR10 data sets and store them in "models" directory.
+These notebooks train models on the MNIST and CIFAR10 data sets and store models in "models" directory.
 
 ### makeSimplex.ipynb
 This notebook constructs simplexes on the trained models stored in "models" directory and outputs the results to "simplexes" directory.
