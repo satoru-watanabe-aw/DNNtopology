@@ -28,6 +28,6 @@ They have four parameters for their model training.
 * outputNeuron = 10
 
 "class_list" limits the input class of the data sets.
-For example, class_list = [0, 1, 2, 3, 4] limits the input from class 0 to 4.
-"firstLayerSize", "secondLayerSize", and "outputNeuron" specifies the number of neurons in the training models.
+For example, class_list = [0, 1, 2, 3, 4] limits the input data to the five classes.
+"firstLayerSize", "secondLayerSize", and "outputNeuron" specifies the number of neurons in the models.
 
