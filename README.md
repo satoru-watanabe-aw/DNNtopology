@@ -47,7 +47,7 @@ This notebook has seven parameters for constracting simplexes from the training 
 * outputNeuron
 * class_list
 
-(0, 1, 2) and (9, 11, 12) are used for (layerNumber, LayerNumber1, layerNumber2) in the MNIST and CIFAR-10 data set, respectively.
+(0, 1, 2) and (13, 15, 16) are used for (layerNumber, LayerNumber1, layerNumber2) in the MNIST and CIFAR-10 data set, respectively.
 
 "firstLayerSize", "secondLayerSize", "outputNeuron", and "class_list" are to be set the same parameters in the notebook that generated the model.
 
