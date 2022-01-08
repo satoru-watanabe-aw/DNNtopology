@@ -20,7 +20,9 @@ This notebook draws persistent homology diagrams using Dionysus library using th
 The notebooks are developed for the execution in Google Colaboratory.
 The first cells of the notebooks mount Gdrive, comment them out if unnecessary.
 
-The configuration file (requirements.txt) is provided, which was generated with "pip freeze" command.
+requirements.txt has been removed for improving system security. 
+(The configuration file (requirements.txt) is provided, which was generated with "pip freeze" command.)
+
 
 ## Paramenter setting in notebooks 
 
